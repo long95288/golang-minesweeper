@@ -1,0 +1,14 @@
+
+
+QLCDNumber{
+    color: red;
+    /*background-color: black;*/
+}
+QWidget#mineArea{
+    /*width: 840px;*/
+    /*background-color: darkgray;*/
+    /*opacity: 0.5;*/
+}
+QLabel#statusLabel{
+    /*background-image: url("dog.png");*/
+}
