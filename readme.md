@@ -5,7 +5,7 @@
 
 ##### 运行结果截图
 
-![运行截图](https://github.com/long95288/golang-minesweeper/raw/master/result.png)
+![运行截图](https://i0.hdslb.com/bfs/album/80cbe1a2c85c645817cf3e76127078cb01b2a734.png)
 
 #### 文件说明
 
